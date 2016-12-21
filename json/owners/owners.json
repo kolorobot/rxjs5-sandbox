@@ -1,50 +1,26 @@
 [
   {
-    "firstName": "Maria",
-    "lastName": "Escobito",
-    "address": "345 Maple St.",
-    "city": "Madison",
-    "telephone": "6085557683",
-    "_links": {
-      "pets": {
-        "href": "http://localhost:8081/owners/8/pets"
-      }
-    }
-  },
-  {
     "firstName": "David",
     "lastName": "Schroeder",
     "address": "2749 Blackhawk Trail",
     "city": "Madison",
     "telephone": "6085559435",
     "_links": {
-      "self": {
-        "href": "http://localhost:8081/owners/9"
-      },
       "owner": {
-        "href": "http://localhost:8081/owners/9"
-      },
-      "pets": {
-        "href": "http://localhost:8081/owners/9/pets"
+        "href": "owners/1.json"
       }
     }
   },
   {
-    "firstName": "Carlos",
-    "lastName": "Estaban",
-    "address": "2335 Independence La.",
-    "city": "Waunakee",
-    "telephone": "6085555487",
+    "firstName": "Maria",
+    "lastName": "Escobito",
+    "address": "345 Maple St.",
+    "city": "Madison",
+    "telephone": "6085557683",
     "_links": {
-      "self": {
-        "href": "http://localhost:8081/owners/10"
-      },
       "owner": {
-        "href": "http://localhost:8081/owners/10"
-      },
-      "pets": {
-        "href": "http://localhost:8081/owners/10/pets"
+        "href": "owners/2.json"
       }
     }
-  },
+  }
 ]
