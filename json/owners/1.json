@@ -6,7 +6,7 @@
   "telephone": "6085559435",
   "_links": {
     "pets": {
-      "href": "owners/2-pets.json"
+      "href": "owners/1-pets.json"
     }
   }
 }
