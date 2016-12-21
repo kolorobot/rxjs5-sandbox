@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Leo",
+    "birthDate": "2010-09-07",
+    "_links": {
+      "visits": {
+        "href": "owners/1-pets-visits.json"
+      },
+      "type": {
+        "href": "owners/1-pets-type.json"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "firstName": "David",
+  "lastName": "Schroeder",
+  "address": "2749 Blackhawk Trail",
+  "city": "Madison",
+  "telephone": "6085559435",
+  "_links": {
+    "pets": {
+      "href": "owners/2-pets.json"
+    }
+  }
+}

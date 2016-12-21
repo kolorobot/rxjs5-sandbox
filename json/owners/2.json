@@ -1,0 +1,12 @@
+{
+  "firstName": "Maria",
+  "lastName": "Escobito",
+  "address": "345 Maple St.",
+  "city": "Madison",
+  "telephone": "6085557683",
+  "_links": {
+    "pets": {
+      "href": "owners/2-pets.json"
+    }
+  }
+}

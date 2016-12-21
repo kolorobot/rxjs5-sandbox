@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Pablo",
+    "birthDate": "2010-01-07",
+    "_links": {
+      "visits": {
+        "href": "owners/2-pets-visits.json"
+      },
+      "type": {
+        "href": "owners/2-pets-type.json"
+      }
+    }
+  }
+]
